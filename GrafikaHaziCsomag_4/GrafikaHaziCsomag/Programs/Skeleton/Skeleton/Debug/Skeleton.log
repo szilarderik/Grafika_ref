@@ -1,0 +1,46 @@
+﻿  Skeleton.cpp
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\framework.h(165,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Skeleton.cpp')
+  
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(80,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(156,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(156,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(156,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(158,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(158,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(193,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(242,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(308,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(315,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(315,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(315,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(318,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(318,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(318,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(318,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(318,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(319,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(319,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(319,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(321,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(321,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(322,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(322,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(322,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(322,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(323,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(323,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(325,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(325,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(325,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(326,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(326,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(327,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(327,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(327,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(328,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(328,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(328,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(372,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\Skeleton\Skeleton.cpp(487,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  Skeleton.vcxproj -> C:\Users\User\Desktop\4.felev\Grafika\GrafikaHaziCsomag_4\GrafikaHaziCsomag\Programs\Skeleton\bin\Skeleton.exe
