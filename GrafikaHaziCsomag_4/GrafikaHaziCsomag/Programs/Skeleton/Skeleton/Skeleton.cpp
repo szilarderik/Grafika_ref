@@ -1,5 +1,5 @@
 //=============================================================================================
-// Mintaprogram: Zöld háromszög. Ervenyes 2019. osztol.
+// Mintaprogram: ZÃ¶ld hÃ¡romszÃ¶g. Ervenyes 2019. osztol.
 //
 // A beadott program csak ebben a fajlban lehet, a fajl 1 byte-os ASCII karaktereket tartalmazhat, BOM kihuzando.
 // Tilos:
@@ -18,8 +18,8 @@
 //
 // NYILATKOZAT
 // ---------------------------------------------------------------------------------------------
-// Nev    : Kanizsai Szilárd Erik
-// Neptun : PWR7Y9
+// Nev    : Kanizsai SzilÃ¡rd Erik
+// 
 // ---------------------------------------------------------------------------------------------
 // ezennel kijelentem, hogy a feladatot magam keszitettem, es ha barmilyen segitseget igenybe vettem vagy
 // mas szellemi termeket felhasznaltam, akkor a forrast es az atvett reszt kommentekben egyertelmuen jeloltem.
